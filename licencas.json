@@ -1,9 +1,5 @@
 {
  "clientes":[
- ]
-}
-{
- "clientes":[
   {
    "id":"ID_DO_CLIENTE",
    "status":"ativo"

@@ -1,8 +1,20 @@
 {
- "clientes":[
-  {
-   "id":"185410942411370",
-   "status":"ativo"
-  }
- ]
+  "clientes": [
+    {
+      "id": "963350075783",
+      "status": "ativo"
+    },
+    {
+      "id": "185410942411370",
+      "status": "ativo"
+    },
+    {
+      "id": "ID_DO_CLIENTE_3_AQUI",
+      "status": "ativo"
+    },
+    {
+      "id": "ID_DO_CLIENTE_4_AQUI",
+      "status": "ativo"
+    }
+  ]
 }
